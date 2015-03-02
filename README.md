@@ -14,7 +14,10 @@ I will communicate with cohort memebers to set a session for each night if time 
 
 I think for people who cannot stay in the evening it would be great if there was any code written to create it on a branch and have the opportunity to review the code later. After you clone this repo you can greate a new branch
 
-```git checkout -b session_name-session_leader```
+```git checkout -b session_name-session_leader```<br>
 i.e. (git checkout -b binary_search-matt_mcdole)
 
-So when you push your new branch you can 1) submit a pull request & merge or 2) send me an email and I will merge your branch into master.
+So when you push your new branch you can
+
+1) submit a pull request & merge <br>
+2) send me an email and I will merge your branch into master.
