@@ -1,4 +1,4 @@
-# Sea Lions Review Sessions
+# Sea Lions Evening Review Sessions
 
 The purpose of this repo is to allow a leader or group of leaders to meet with a group of people in the evening to help solidify a learning competency that you may not understand fully.
 
