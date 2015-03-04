@@ -12,7 +12,7 @@ I will communicate with cohort memebers to set a session for each night if time 
 ```
 3/2/15 - Leader or Group of leaders - Session topic
 3/3/15 - Leader or Group of leaders - Session topic
-3/4/15 - Leader or Group of leaders - Session topic
+3/4/15 - Yaron Sadka - Git
 3/5/15 - Leader or Group of leaders - Session topic
 3/6/15 - Leader or Group of leaders - Session topic
 3/7/15 - Leader or Group of leaders - Session topic
