@@ -26,7 +26,7 @@ Feel free to look at the solutions and see if you can follow the magic that we m
 
 3. Divide the input by the lowest factor and store that
 
-4. Repeat (Recusion)
+4. Repeat (Recursion)
 
 ### Brandi
 
