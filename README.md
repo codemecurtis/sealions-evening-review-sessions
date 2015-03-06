@@ -7,17 +7,20 @@ There is no limit or minimum for these sessions just as long as we are all learn
 
 ### Scheduling
 
-I will communicate with cohort memebers to set a session for each night if time permits ( Open to recommendations, feel free to leave a issue). Once we have a group decision I will list the date, topic and time. If you think it will be better to add your own session please feel free to create a branch push and submit a pull request and I will merge or feel free to merge if there are no conflicts.
+I will communicate with cohort members to set a session for each night if time permits ( Open to recommendations, feel free to leave a issue). Once we have a group decision I will list the date, topic and time. If you think it will be better to add your own session please feel free to create a branch push and submit a pull request and I will merge or feel free to merge if there are no conflicts.
 
 ```
 3/2/15 - Leader or Group of leaders - Session topic
 3/3/15 - Leader or Group of leaders - Session topic
 3/4/15 - Yaron Sadka - Git
-3/5/15 - Matt McDole - Recursion vs iteration
+3/5/15 - Matt McDole - Recursion vs Iteration
 3/6/15 - Leader or Group of leaders - Session topic
 3/7/15 - Leader or Group of leaders - Session topic
 3/8/15 - Take a fucking day off!
 ```
+
+[Recursion vs iteration](recursion-vs-iteration)
+
 
 
 ### Keeping Track of Work ***(Optional)***
