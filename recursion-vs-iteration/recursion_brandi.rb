@@ -1,3 +1,5 @@
+require "benchmark"
+
 def prime_factors(number)
   if number == 1
     return []
@@ -7,7 +9,4 @@ def prime_factors(number)
   [found_factor] + prime_factors(number / found_factor)
 end
 
-
-p prime_factors(6) # == [2,3]
-p prime_factors(25) # == [5,5]
-p prime_factors(123123123) # == [3,3,41, 333667]
+puts Benchmark.measure{prime_factors(123123123)}
